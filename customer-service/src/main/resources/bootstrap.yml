@@ -6,3 +6,7 @@ spring:
       uri: http://localhost:8081
       username: kalkstein
       password: th3_eth3r
+  boot:
+    admin:
+      client:
+        url: http://localhost:8086
